@@ -1,4 +1,4 @@
-# course_app
+# Ayushona App
 
 A new Flutter project.
 
